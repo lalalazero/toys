@@ -1,0 +1,4 @@
+packages:
+  - 'pacakges/*'
+  - '!**/test/**'
+  - '!playground'

@@ -1,0 +1,15 @@
+{
+  "name": "toys",
+  "workspaces": [
+    "./packages/*"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "version": "1.0.0",
+  "description": "code everything and make fun",
+  "keywords": [],
+  "author": "lalalazero",
+  "homepage": "https://github.com/lalalazero/toys"
+}
